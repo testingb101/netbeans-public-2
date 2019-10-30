@@ -28,6 +28,7 @@ public class PracticalOneHistogram {
     static String star8 = "";
     static String star9 = "";
     static String star10 = "";
+    static String star11 = "";
 
     /**
      * @param args the command line arguments
